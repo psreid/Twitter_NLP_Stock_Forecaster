@@ -1,0 +1,7 @@
+requirements (in progress)
+tweepy
+textblob
+python -m textblob.download_corpora
+pandas
+numpy
+nltk.download('stopwords')
