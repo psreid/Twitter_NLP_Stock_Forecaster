@@ -3,13 +3,3 @@
 
 Read Twitter_NLP_DOC for further information about workflow and preliminary results.
 This is a work in progress and is not meant for commercial use.
-
-
-requirements (in progress)
-tweepy
-textblob
-pandas
-numpy
-nltk.download('stopwords')
-statsmodels
-python -m textblob.download_corpora
